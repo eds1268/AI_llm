@@ -11,3 +11,6 @@ wheels/
 
 # Environment variables (API keys)
 .env
+
+# Separate clone of the course repo
+AI_llm/
